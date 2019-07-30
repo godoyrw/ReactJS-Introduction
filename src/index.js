@@ -78,7 +78,7 @@ const AppGame = () => {
       <div className="game">
         {title}
         <p>
-          Acertei depois de <strong> {numPalpites}</strong> chutes.
+          Acertei depois de <strong> {numPalpites}</strong> chute(s).
         </p>
         <button onClick={iniciarJogo}>Jogar Novamente!</button>
       </div>
