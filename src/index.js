@@ -94,7 +94,7 @@ const AppGame = () => {
 
       <button onClick={menor}>Errou, é menor.</button>
       <button onClick={acertou}>Acertou Miseravi!</button>
-      <button onClick={maior}>Errou, é Maior.</button>
+      <button onClick={maior}>Errou, é maior.</button>
     </div>
   );
 };
