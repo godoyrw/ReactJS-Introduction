@@ -1,10 +1,12 @@
 html {
   background: #e7e8ec;
 }
+
 .game {
   font-family: sans-serif;
   text-align: center;
 }
+
 .game .logo {
   width: 220px;
 }
